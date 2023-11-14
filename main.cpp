@@ -3,6 +3,7 @@
 
 #include "Game.h"
 
+
 void main(int argc, char** argv[]) {
 
 	// Initialize	random seed
